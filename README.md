@@ -1,6 +1,6 @@
-# vim-jp Slack icon
+# vim-jp icon
 
-vim-jp の Slack で使用しているアイコンです。
+vim-jp で使用しているアイコンです。
 
 * 20200515-alicia/
 
